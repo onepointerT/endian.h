@@ -9,13 +9,7 @@ be64toh, le64toh.
 The implementation was written by Mathias Panzenböck and published in this
 [Gist][gist].
 
-## Install
 
-Install with [clib(1)]:
-
-```sh
-clib install mikepb/endian.h
-```
 
 ## Usage
 
