@@ -66,7 +66,7 @@ typedef unsigned long	ulong;		/* Sys V compatibility */
 //#include <register.h>
 #endif*/
 
-#include <immintrin.h>
+//#include <immintrin.h>
 
 #include <sys/_types.h>
 #include <sys/arch/sh/_types.h>

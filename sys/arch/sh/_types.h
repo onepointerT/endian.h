@@ -58,7 +58,7 @@ typedef struct label_t {
 #define	_MAX_PAGE_SHIFT		12	/* same as PAGE_SHIFT */
 
 /* 7.18.1.1 Exact-width integer types */
-typedef	signed char		__int8_t;
+typedef	/*signed*/ char		__int8_t;
 typedef	unsigned char		__uint8_t;
 typedef	short			__int16_t;
 typedef	unsigned short		__uint16_t;
